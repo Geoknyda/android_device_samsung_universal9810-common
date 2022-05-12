@@ -43,3 +43,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.notification_sound=Argon.ogg \
     ro.config.alarm_alert=Hassium.ogg \
     ro.config.vc_call_vol_steps=7
+
+# Brightness
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.lcd_brightness=250
